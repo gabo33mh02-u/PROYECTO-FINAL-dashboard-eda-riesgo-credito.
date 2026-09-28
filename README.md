@@ -1,0 +1,2 @@
+# PROYECTO-FINAL-dashboard-eda-riesgo-credito.
+ANALISIS RIESGO CREDITICIO ECUADOR 2026
