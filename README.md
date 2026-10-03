@@ -51,4 +51,4 @@ Solo banca privada (sin cooperativas ni banca pública), sin datos de provisione
 La morosidad aquí es una definición propia (improductiva / saldo) y puede diferir levemente de la cifra oficial.
 
 ## Dashboard en línea
-Enlace: _(pegar aquí la URL de Streamlit Community Cloud)_
+Enlace: _(https://proyecto-final-dashboard-eda-riesgo-credito-k2uwqjbjrvvfudphu6.streamlit.app/)_
